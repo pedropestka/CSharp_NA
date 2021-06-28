@@ -1,0 +1,13 @@
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\bin\Debug\netcoreapp3.1\1134.exe
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\bin\Debug\netcoreapp3.1\1134.deps.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\bin\Debug\netcoreapp3.1\1134.runtimeconfig.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\bin\Debug\netcoreapp3.1\1134.runtimeconfig.dev.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\bin\Debug\netcoreapp3.1\1134.dll
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\bin\Debug\netcoreapp3.1\1134.pdb
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\obj\Debug\netcoreapp3.1\1134.csprojAssemblyReference.cache
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\obj\Debug\netcoreapp3.1\1134.AssemblyInfoInputs.cache
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\obj\Debug\netcoreapp3.1\1134.AssemblyInfo.cs
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\obj\Debug\netcoreapp3.1\1134.csproj.CoreCompileInputs.cache
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\obj\Debug\netcoreapp3.1\1134.dll
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\obj\Debug\netcoreapp3.1\1134.pdb
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\1134\obj\Debug\netcoreapp3.1\1134.genruntimeconfig.cache

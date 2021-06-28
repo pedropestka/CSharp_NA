@@ -1,0 +1,13 @@
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\bin\Debug\netcoreapp3.1\vetores09.exe
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\bin\Debug\netcoreapp3.1\vetores09.deps.json
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\bin\Debug\netcoreapp3.1\vetores09.runtimeconfig.json
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\bin\Debug\netcoreapp3.1\vetores09.runtimeconfig.dev.json
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\bin\Debug\netcoreapp3.1\vetores09.dll
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\bin\Debug\netcoreapp3.1\vetores09.pdb
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\obj\Debug\netcoreapp3.1\vetores09.csprojAssemblyReference.cache
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\obj\Debug\netcoreapp3.1\vetores09.AssemblyInfoInputs.cache
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\obj\Debug\netcoreapp3.1\vetores09.AssemblyInfo.cs
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\obj\Debug\netcoreapp3.1\vetores09.csproj.CoreCompileInputs.cache
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\obj\Debug\netcoreapp3.1\vetores09.dll
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\obj\Debug\netcoreapp3.1\vetores09.pdb
+E:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\vetores09\obj\Debug\netcoreapp3.1\vetores09.genruntimeconfig.cache

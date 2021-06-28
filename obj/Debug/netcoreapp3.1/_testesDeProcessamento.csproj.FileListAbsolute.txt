@@ -1,0 +1,13 @@
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\bin\Debug\netcoreapp3.1\_testesDeProcessamento.exe
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\bin\Debug\netcoreapp3.1\_testesDeProcessamento.deps.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\bin\Debug\netcoreapp3.1\_testesDeProcessamento.runtimeconfig.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\bin\Debug\netcoreapp3.1\_testesDeProcessamento.runtimeconfig.dev.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\bin\Debug\netcoreapp3.1\_testesDeProcessamento.dll
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\bin\Debug\netcoreapp3.1\_testesDeProcessamento.pdb
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\obj\Debug\netcoreapp3.1\_testesDeProcessamento.csprojAssemblyReference.cache
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\obj\Debug\netcoreapp3.1\_testesDeProcessamento.AssemblyInfoInputs.cache
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\obj\Debug\netcoreapp3.1\_testesDeProcessamento.AssemblyInfo.cs
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\obj\Debug\netcoreapp3.1\_testesDeProcessamento.csproj.CoreCompileInputs.cache
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\obj\Debug\netcoreapp3.1\_testesDeProcessamento.dll
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\obj\Debug\netcoreapp3.1\_testesDeProcessamento.pdb
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\obj\Debug\netcoreapp3.1\_testesDeProcessamento.genruntimeconfig.cache

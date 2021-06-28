@@ -1,0 +1,12 @@
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\bin\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.exe
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\bin\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.deps.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\bin\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.runtimeconfig.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\bin\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.runtimeconfig.dev.json
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\bin\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.dll
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\bin\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.pdb
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\obj\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.AssemblyInfoInputs.cache
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\obj\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.AssemblyInfo.cs
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\obj\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.csproj.CoreCompileInputs.cache
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\obj\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.dll
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\obj\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.pdb
+D:\OneDrive\Cursos\CSharp\Udemy_PrimeirosPassos\Udemy_PrimeirosPassos\Aula51_DoWhile_F_C\obj\Debug\netcoreapp3.1\Aula51_DoWhile_F_C.genruntimeconfig.cache
